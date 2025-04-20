@@ -1,6 +1,10 @@
 #!/bin/bash
 
-# Your downloads dir should contain folders downloaded from gog-games.to with the unzipped archive inside the folder. This AI written script renames all the folders and files within those folders to a cleaner format. Some folders will still have a suffix of "game." Games with a period (.) in their name may also cause issues, because the script replaces periods with spaces. GameVault has a much easier time identifying games with these renamed folders.
+# Your downloads dir should contain folders downloaded from gog-games.to with the unzipped archive inside the folder.
+# This AI written script renames all the folders and files within those folders to a cleaner format.
+# Some folders will still have a suffix of "game."
+# Games with a period (.) in their name may also cause issues, because the script replaces periods with spaces.
+# GameVault has a much easier time identifying games with these renamed folders.
 
 # Example of downloads dir folder/ file format:
 # /your/download/dir/here/game-beyond.the.ice.palace.2-(80938)/game-beyond.the.ice.palace.2-(80938).rar
